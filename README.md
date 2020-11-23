@@ -9,6 +9,7 @@ The purpose of the analysis is to help investigate relationships in our dataset 
 From our analysis, we can see a few noticeable observations. First, urban cities make up the largest rider base followed by suburban and rural cities respectively; likewise we see total drivers and fares follow the same pattern. When looking at the average fares per ride & per driver basis, we see rural cities having the highest average, followed by suburban and urban cities respectively. The summary chart below is attached for your reference.
 
 PyBer Summary Chart:
+
 <img src="Resources/pyber_summary.png">
 
 Furthermore, from the line chart below, we see total fares by city types fall within a range e.g. suburban cities total fares typically fall between ~$750USD to just below $1,500USD per week. We can also observe that the weekly fares vary quite a bit as we see a lot of peaks/valleys in the line chart.
